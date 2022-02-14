@@ -1,4 +1,7 @@
-### Hi there 👋
+### Holiwis 👋
+
+
+<a href="https://es.cooltext.com"><img src="https://images.cooltext.com/5583469.png" width="303" height="130" alt="Papaya" /></a>
 
 <!--
 **Papayabierta/Papayabierta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +17,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+|  Hora 	|     Nombre de la materia     	| Lunas 	| Martes 	| Miercoles 	| Jueves 	| Viernes 	|
+|:-----:	|:----------------------------:	|:-----:	|:------:	|:---------:	|:------:	|:-------:	|
+| 1 p.m 	| Investigación de Operaciones 	|   ✔   	|    ✔   	|     ✔     	|    ✔   	|         	|
+| 4 p.m 	| Lenguaje de Interfaz         	|   ✔   	|    ✔   	|     ✔     	|    ✔   	|         	|
