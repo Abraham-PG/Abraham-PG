@@ -1,7 +1,7 @@
 ### Holiwis 👋
 
 
-<a href="https://es.cooltext.com"><img src="https://images.cooltext.com/5583469.png" width="303" height="130" alt="Papaya" /></a>
+<a href="https://es.cooltext.com"><img src="https://images.cooltext.com/5583470.png" width="494" height="108" alt="Abraham-PG" /></a>
 
 <!--
 **Papayabierta/Papayabierta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
